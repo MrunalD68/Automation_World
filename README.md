@@ -1,9 +1,9 @@
 👋 Hi, I'm Mrunal, a passionate Quality Analyst with experience in automation testing using Python.
 
 🔧 **Technologies & Tools:**
-- Programming Languages: Java, Python
+- Programming Languages: Python
 - Testing Frameworks:Selenium
-- Tools: Jenkins
+- Tools: pycharm
 - 📂 **Projects:**
 
 - [Automation_World_Python](https://github.com/MrunalD68/Automation_World_Python): A Python-based automation project that I am building from scratch, starting with the basics of Python,
